@@ -42,6 +42,17 @@ LORA_MODELS=(
     "https://civitai.com/api/download/models/445241"
     "https://civitai.com/api/download/models/244808"
     "https://civitai.com/api/download/models/135867"
+    "https://civitai.com/api/download/models/795718"
+    "https://civitai.com/api/download/models/466120"
+    "https://civitai.com/api/download/models/458498"
+    "https://civitai.com/api/download/models/403306"
+    "https://civitai.com/api/download/models/436219"
+    "https://civitai.com/api/download/models/209546"
+    "https://civitai.com/api/download/models/625365"
+    "https://civitai.com/api/download/models/882225"
+    "https://civitai.com/api/download/models/683691"
+    "https://civitai.com/api/download/models/489794"
+    "https://civitai.com/api/download/models/1259891"
 )
 
 VAE_MODELS=(
@@ -53,10 +64,10 @@ ESRGAN_MODELS=(
 )
 
 CONTROLNET_MODELS=(
-    "https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/diffusers_xl_canny_mid.safetensors"
-    "https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/diffusers_xl_depth_mid.safetensors?download"
-    "https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/t2i-adapter_diffusers_xl_openpose.safetensors"
-    "https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/control_canny-fp16.safetensors"
+    #"https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/diffusers_xl_canny_mid.safetensors"
+    #"https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/diffusers_xl_depth_mid.safetensors?download"
+    #"https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/t2i-adapter_diffusers_xl_openpose.safetensors"
+    #"https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/control_canny-fp16.safetensors"
     #"https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/control_depth-fp16.safetensors"
     "https://huggingface.co/kohya-ss/ControlNet-diff-modules/resolve/main/diff_control_sd15_depth_fp16.safetensors"
     #"https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/control_hed-fp16.safetensors"
